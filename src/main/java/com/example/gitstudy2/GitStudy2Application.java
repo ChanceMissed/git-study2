@@ -12,6 +12,8 @@ public class GitStudy2Application {
 		System.out.println("a");
 		System.out.println("B");
 		System.out.println("C");
+		System.out.println("Staging Area 에서 파일 삭제");
+		System.out.println("D");
 		SpringApplication.run(GitStudy2Application.class, args);
 	}
 
